@@ -1,0 +1,2 @@
+[1002/232418.073:FATAL:exception_handler_server.cc(331)] : Not enough storage is available to process this command. (0x8)
+[1002/232418.634:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)

@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>MY COUNTRY</title>
+<style>
+#tdborder{
+       border-bottom: 1px solid black;
+	   border-left: none;
+	   border-right: none;
+	   border-top: none;
+	   }
+a      {
+        text-decoration: none;
+		}
+</style>
+</head>
+<body>
+<table border=0 width=100% id=#table1>
+	<tr>
+		<td width=14% align=center valign=bottom id=tdborder><a href="index.html"><font color=#0000ff><b>Home</b></font></a></td>
+		<td width=14% align=center valign=bottom id=tdborder><a href="history.html"><font color=#0000ff><b>History</b></font></a></td>
+		<td width=14% align=center valign=bottom id=tdborder><a href="placetovisit.html"><font color=#0000ff><b>Place To Visit</b></font></a></td>
+		<td width=100px align=center><img src="images/incredibleindia.png"></td>
+		<td width=14% align=center valign=bottom id=tdborder><a href="art_culture.html"><font color=#0000ff><b>Art & Culture</b></font></a></td>
+		<td width=14% align=center valign=bottom id=tdborder><a href="nationalcampaign.html"><font color=#0000ff><b>National Campaign</b></font></a></td>
+		<td width=14% align=center valign=bottom id=tdborder><a href="contactus.html"><font color=#0000ff><b>Contact Us</b></font></a></td>
+	</tr>
+</table>
